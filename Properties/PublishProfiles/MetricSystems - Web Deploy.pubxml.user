@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>True|2025-09-21T15:22:24.6526293Z||;</History>
+    <History>True|2025-09-21T16:24:50.6662622Z||;True|2025-09-21T11:22:24.6526293-04:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

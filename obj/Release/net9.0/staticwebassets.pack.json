@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\images\\walgreens.png",
+      "PackagePath": "staticwebassets\\images\\walgreens.png"
+    },
+    {
       "Id": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -342,3 +342,4 @@ C:\Users\yache\OneDrive\Desktop\Juo_J\SreemanReddy\Prescription\Prescription\obj
 C:\Users\yache\OneDrive\Desktop\Juo_J\SreemanReddy\Prescription\Prescription\obj\Debug\net9.0\Prescription.genruntimeconfig.cache
 C:\Users\yache\OneDrive\Desktop\Juo_J\SreemanReddy\Prescription\Prescription\obj\Debug\net9.0\ref\Prescription.dll
 C:\Users\yache\OneDrive\Desktop\Juo_J\SreemanReddy\Prescription\Prescription\bin\Debug\net9.0\PrescriptionDb.db
+C:\Users\yache\OneDrive\Desktop\Juo_J\SreemanReddy\Prescription\Prescription\obj\Debug\net9.0\Prescription.sourcelink.json

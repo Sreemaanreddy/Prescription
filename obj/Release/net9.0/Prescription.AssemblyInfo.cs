@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prescription")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e2c05af633b5eaae20e6a0947cfcf0b5ab0fb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prescription")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prescription")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

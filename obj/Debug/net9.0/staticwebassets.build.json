@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0l7L4ZBLiXrRd0qj9T59izrjYnv0Yun9Ytq537kexEE=",
+  "Hash": "nYvYSULtUU280zTJeeR7FvA4n/YRFp8Prs7JG98uil8=",
   "Source": "Prescription",
   "BasePath": "_content/Prescription",
   "Mode": "Default",
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\images\\walgreens.png",
+      "SourceId": "Prescription",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\",
+      "BasePath": "_content/Prescription",
+      "RelativePath": "images/walgreens#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b493wwusn7",
+      "Integrity": "69BAm6e1/lMUt0Wa7Xd3EpUPGLhAHZoYhoh1WiKm4Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\walgreens.png"
     },
     {
       "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\js\\site.js",
@@ -3320,6 +3341,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/walgreens.b493wwusn7.png",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\images\\walgreens.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69BAm6e1/lMUt0Wa7Xd3EpUPGLhAHZoYhoh1WiKm4Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b493wwusn7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/walgreens.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-69BAm6e1/lMUt0Wa7Xd3EpUPGLhAHZoYhoh1WiKm4Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/walgreens.png",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\SreemanReddy\\Prescription\\Prescription\\wwwroot\\images\\walgreens.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69BAm6e1/lMUt0Wa7Xd3EpUPGLhAHZoYhoh1WiKm4Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-69BAm6e1/lMUt0Wa7Xd3EpUPGLhAHZoYhoh1WiKm4Y0="
         }
       ]
     },
